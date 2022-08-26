@@ -1,0 +1,24 @@
+Intro letter
+
+Hi NAME,
+ 
+Thanks, for the LinkedIn Connection. I hope you are doing well!
+ 
+I represent COMPANY, a Ukrainian software development company.  
+With regard to software development - are you open to doing a B2B (White label) partnership 
+with a team of skilled software engineers who will extend your market reach and team capacity? 
+ 
+We are a professional team of designers, programmers, business analysis experts, and have a 
+specialization in custom design & development services:
+ 
+-PHP (laravel,symfony)
+-React, Angular
+-UX/UI Design
+-iOS (Swift), Android (Kotlin)
+-Data Science technos
+-Blockchain (NFT, crypto)
+ 
+If this sounds like what your company needs, we are happy to jump on a quick call. How does your calendar 
+look for this week or next week?
+ 
+Sincerely, your best Ukrainian tech provider.
